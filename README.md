@@ -1,5 +1,5 @@
 <h1>Among US | Start Reactor</h1>
-<h3>Play start reactor game&nbsp;&nbsp;&nbsp;&nbsp;<a href="rahulsahofficial.github.io/start_reactor/" target="black">Click to Play</a></h3>
+<h3>Play start reactor game&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://rahulsahofficial.github.io/start_reactor/" target="black">Click to Play</a></h3>
 <hr>
 <h4>Game Preview</h4>
 <img src="files/images/win.gif">
