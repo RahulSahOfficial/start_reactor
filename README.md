@@ -5,8 +5,10 @@
 <img width="600px" src="files/images/preview.png">
 <hr>
 <h5>Inspiration</h5>
-<img width="600px" src="files/images/inspiration.jpg">
+<img width="400px" src="files/images/inspiration.jpg">
 <hr>
+<hr>
+<h3>Details : </h3>
 <p>I like the game Among Us .
 I tried to make one of its game called Start Reactor with javscript and jquery 
 Just tap on the keys  as shown in the left side of the reactor to win the game.
