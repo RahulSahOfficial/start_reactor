@@ -1,7 +1,11 @@
 <h1>Among US | Start Reactor</h1>
-<h3>Play start reactor game</h3>
+<h3>Play start reactor game&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://rahulsahofficial.github.io/menu/" target="black">Click to Play</a></h3>
 <hr>
-<img width="600px" src="files/preview.png">
+<h5>Final Work</h5>
+<img width="600px" src="files/images/preview.png">
+<hr>
+<h5>Inspiration</h5>
+<img width="600px" src="files/images/inspiration.jpg">
 <hr>
 <p>I like the game Among Us .
 I tried to make one of its game called Start Reactor with javscript and jquery 
